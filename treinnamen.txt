@@ -2,9 +2,5 @@ Thomas Geudens
 Thomas De Maerschalck
 Thomas Neefsblabla
 Thomas Het Kieken
-<<<<<<< HEAD
-
 HELLO WORLD
-=======
 Include Thomas Neefs
->>>>>>> refs/remotes/origin/ThomasTestInclude
